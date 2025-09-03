@@ -37,9 +37,10 @@ prepare_all_pdb_v2.bat
 | Python                   | 3.9 (MGLTools-embedded) | Bundled inside MGLTools
 | Windows                  | 10/11                   | Uses `cmd`-style batch syntax
 
-
+```
 Citation
 If you use this pipeline in academic work, please cite:
 O’Boyle et al. “Open Babel: An open chemical toolbox” J Cheminform 2011.
 Morris GM et al. “AutoDockTools4: Automated docking tools” J Comput Chem 2009.
 
+[![DOI](https://zenodo.org/badge/989994281.svg)](https://doi.org/10.5281/zenodo.17038949)
